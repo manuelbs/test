@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the gur news feature.
+ */
+
+include_once 'gur_news.features.inc';
