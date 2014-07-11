@@ -112,7 +112,7 @@ function gur_news_field_default_field_instances() {
     ),
     'entity_type' => 'node',
     'field_name' => 'field_news_image',
-    'label' => 'Image1',
+    'label' => 'Images',
     'required' => 0,
     'settings' => array(
       'alt_field' => 0,
@@ -141,7 +141,7 @@ function gur_news_field_default_field_instances() {
   // Included for use with string extractors like potx.
   t('Body');
   t('Comment');
-  t('Image1');
+  t('Images');
 
   return $field_instances;
 }
